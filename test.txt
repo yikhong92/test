@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-id="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/ZJSTV.svg/revision/latest/scale-to-width-down/1000?cb=20260313202208" group-title="MYTV",浙江卫视
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
