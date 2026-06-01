@@ -173,11 +173,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>LIFESTYLE
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/LIFESYTLE-LOGO/refs/heads/main/ASIAN%20FOOD%20NETWORK.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK
+#EXTINF:-1  tvg-id="AFN" group-logo="https://iili.io/q9KNAxa.png" tvg-name=Asian Food Network HD" group-title=" DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2uvXvKT4oLoapYGwpXcYEWSmlD79aXIW9cJ1T1dRYTNxN66wI2vKpfMqB5wjuQ-TthNcJXJd9bqyhOxsZO4MoskBTWQC1P1cq_Nxh6TNHLs7rZm_QsNYRl-pM60JT0syhtEmax7pr83ci5hujAldPx0kwHXR5FX3UGq0vBhhb-vVCA-1WPqpLj_unV6dP" ch-number="709",709 Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/LIFESYTLE-LOGO/refs/heads/main/TLC.webp" group-title="LIFESTYLE",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -220,7 +220,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="rockaction.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Unifi TV",ROCK Action
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="rockaction.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="MOVIES TV",ROCK Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ooFuWncl1q35-_LATMug-w","kid":"VPL7-vUpXINEgJ0k3KkbEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
