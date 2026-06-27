@@ -2,6 +2,12 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>MALAYSIA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="MALAYSIA",八度空间
+http://cdn6.163189.xyz/163189/8tv
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SPORTS
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
